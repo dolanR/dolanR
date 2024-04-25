@@ -7,7 +7,7 @@
 
 <p align="center">👨‍💻 All of my projects are available at https://github.com/dolanR</p>
 
-<p align="center">📫 Shoot me an email! <a href="mailto: reynoldsdolan@gmail.com">reynoldsdolan@gmail.com</a></p>
+<p align="center">📫 Shoot me an email! <a href='mailto: reynoldsdolan@gmail.com' target='_blank'>reynoldsdolan@gmail.com</a></p>
 
 <p align="center">⚡ Fun fact: I'm addicted to raccoons, pizza, and jiu-jitsu!</p>
 
