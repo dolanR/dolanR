@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dolan</h1>
 <h3 align="center">A passionate full-stack developer always trying to learn!</h3>
 
-- 🔭 I’m currently working on **Hush Hush, a website for my friend's band**
+- 🔭 I’m currently working on  a website for my friend's band, Hush Hush
 
-- 🌱 I’m currently learning **Framer Motion, GSAP, and Python Django/Flask**
+- 🌱 I’m currently learning Framer Motion, GSAP, and Python Django/Flask
 
 - 👨‍💻 All of my projects are available at [https://github.com/dolanR](https://github.com/dolanR)
 
 - 📫 Shoot me an email! **reynoldsdolan@gmail.com**
 
-- ⚡ Fun fact **I am addicted to raccoons and pizza!**
+- ⚡ Fun fact: I'm addicted to raccoons, pizza, and jiu-jitsu!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
