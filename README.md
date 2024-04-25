@@ -5,9 +5,9 @@
 
 <p align="center">🌱 I’m currently learning Framer Motion, GSAP, and Python Django/Flask</p>
 
-<p align="center">👨‍💻 All of my projects are available at **https://github.com/dolanR**</p>
+<p align="center">👨‍💻 All of my projects are available at https://github.com/dolanR</p>
 
-<p align="center">📫 Shoot me an email! **reynoldsdolan@gmail.com**</p>
+<p align="center">📫 Shoot me an email! reynoldsdolan@gmail.com</p>
 
 <p align="center">⚡ Fun fact: I'm addicted to raccoons, pizza, and jiu-jitsu!</p>
 
