@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dolan</h1>
 <h3 align="center">A passionate full-stack developer always trying to learn!</h3>
 
-- 🔭 I’m currently working on  a website for my friend's band, Hush Hush
+<p align="center">🔭 I’m currently working on  a website for my friend's band, Hush Hush</p>
 
-- 🌱 I’m currently learning Framer Motion, GSAP, and Python Django/Flask
+<p align="center">🌱 I’m currently learning Framer Motion, GSAP, and Python Django/Flask</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/dolanR](https://github.com/dolanR)
+<p align="center">👨‍💻 All of my projects are available at [https://github.com/dolanR](https://github.com/dolanR)</p>
 
-- 📫 Shoot me an email! **reynoldsdolan@gmail.com**
+<p align="center">📫 Shoot me an email! **reynoldsdolan@gmail.com**</p>
 
-- ⚡ Fun fact: I'm addicted to raccoons, pizza, and jiu-jitsu!
+<p align="center">⚡ Fun fact: I'm addicted to raccoons, pizza, and jiu-jitsu!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
