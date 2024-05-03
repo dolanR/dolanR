@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dolan</h1>
 <h3 align="center">A passionate full-stack developer always trying to learn!</h3>
 
-<p align="center">🔭 I’m currently working on  a website for my friend's band, HUSH HUSH</p>
+<p align="center">🔭 I’m currently working on a private project, stay tuned!</p>
 
 <p align="center">🌱 Trying to learn Framer Motion, GSAP, and Python Django/Flask</p>
 
